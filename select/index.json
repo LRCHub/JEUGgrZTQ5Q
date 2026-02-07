@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "愛煩い",
+  "base_artist": "Faulieu.",
+  "createdAt": "2026-02-07T18:14:41.148049Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "愛煩い",
+      "artist": "Faulieu.",
+      "has_synced": false,
+      "path": "select/pl_01_愛煩い_Faulieu..txt"
+    }
+  ]
+}
